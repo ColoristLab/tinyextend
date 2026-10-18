@@ -1,6 +1,6 @@
 ## What's Changed in 0.1.0
 
-- chore: Initial commit by @ajiho
+- feat: initial release by @ajiho
 
 ### New Contributors
 
